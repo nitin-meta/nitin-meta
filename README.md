@@ -1,4 +1,3 @@
-<h1 align="center"> <img src="https://github.com/nitin-meta/nitin-meta/blob/main/welcome%20to%20our.png"></h1>
 <h1 align="center">Hey Everyone 👋, I'm Nitin Manoj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
